@@ -1,0 +1,82 @@
+.main .image img{
+    width: 49%;
+    display: inline;
+    box-sizing: border-box;
+    float: left;
+}
+.main .image{
+   width: 80%;
+}
+.main .main_form{
+    display: inline;
+    width: 50%;
+    box-sizing: border-box;
+    float: left;
+    margin-top: 125px;
+    margin-left: 20px;
+}
+.main .main_form p, h1, form{
+    padding-left: 30%;
+}
+.main .main_form .one, .tow{
+    color: rgb(100, 88, 88);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main .main_form h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.main .main_form .tow a{
+    text-decoration: none;
+    color: rgb(41, 87, 214);
+    font-weight: 400;
+}
+.main .main_form .tow a:hover{
+    text-decoration: underline;
+}
+.main .main_form form label{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    color: rgb(54, 49, 49);
+    font-size: 17px;
+}
+.main .main_form .three, .four{
+    padding: 0px 10px;
+    width: 550px;
+    height: 65px;
+}
+.main .main_form .four{
+    margin-bottom: 20px;
+}
+.main .main_form .five{
+    padding: 20px 200px;
+    background-color: rgb(31, 125, 198);
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+}
+.main .main_form .six{
+    padding: 20px 218px;
+    cursor: pointer;
+}
+.main .main_form .three, .four,.five, .six{
+    border-radius: 15px;
+    outline: none;
+    border: 1px solid rgb(187, 178, 178);
+    box-sizing: border-box;
+    box-shadow: 0px 0px 1px rgb(107, 98, 98);
+}
+.main .main_form .three:hover{
+    box-shadow: 1px 0px 3px rgb(107, 98, 98);
+}
+.main .main_form .four:hover{
+    box-shadow: 1px 0px 3px rgb(107, 98, 98);
+}
+.main .main_form .five:hover{
+    box-shadow: 1px 0px 3px rgb(107, 98, 98);
+}
+.main .main_form .six:hover{
+    box-shadow: 1px 0px 3px rgb(107, 98, 98);
+}
